@@ -1,0 +1,28 @@
+.time-container {
+    border: 10px solid;
+    border-radius: 5px;
+    max-width: 600px;
+    margin: auto;
+    text-align: center;
+    font-size: 1.6rem;
+    padding: 1.5rem;
+    transition: 500ms;
+}
+.time-container-box {
+    background: #fff;
+    border-radius: 5px;
+    border: 10px solid;
+    padding: 1rem;
+    max-width: 500px;
+    margin: auto;
+    text-align: center;
+}
+
+.time-container__date-text {
+    font-size: 2rem;
+}
+
+.time-container__time-to-NY-text {
+    font-size: 1.7rem;
+}
+
